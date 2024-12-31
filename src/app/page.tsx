@@ -185,7 +185,7 @@ export default function Home() {
                 generated names, or add your own custom word to make it more personal.
               </p>
               <p>
-                Whether you're starting a new band, working on a solo project, or just brainstorming 
+                Whether you&apos;re starting a new band, working on a solo project, or just brainstorming 
                 ideas, our generator helps spark creativity by combining powerful words, mythological 
                 references, and genre-specific elements to create names that resonate with your musical style.
               </p>
@@ -234,7 +234,7 @@ export default function Home() {
                   book character.
                 </p>
                 <p>
-                  <span className="font-semibold">Multiple Sessions:</span> Don't feel pressured to choose 
+                  <span className="font-semibold">Multiple Sessions:</span> Don&apos;t feel pressured to choose 
                   immediately. Generate names across multiple sessions to find the perfect fit. Sometimes 
                   the best names come when you least expect them.
                 </p>
