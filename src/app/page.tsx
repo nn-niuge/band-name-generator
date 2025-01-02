@@ -117,10 +117,10 @@ export default function Home() {
             Band Name Generator
           </h1>
           <p className="text-base sm:text-lg md:text-xl text-gray-600 px-2 mb-2">
-            Create unique names for your music project instantly. Perfect for any genre!
+            The best band name generator for musicians. Our band name generator creates unique names instantly!
           </p>
           <p className="text-sm sm:text-base text-gray-500 px-2">
-            Generate creative band names that match your style.
+            Try our band name generator to find the perfect name for any genre.
           </p>
         </div>
         
@@ -244,16 +244,15 @@ export default function Home() {
 
         <div className="mt-12 w-full max-w-4xl bg-white rounded-2xl shadow-lg p-6 mx-4">
           <h2 className="text-2xl sm:text-3xl font-bold mb-6 text-center text-blue-600">
-            About Our Name Creator
+            About Our Band Name Generator
           </h2>
           
           <div className="space-y-6 text-gray-600">
             <div>
               <h3 className="text-lg sm:text-xl font-semibold mb-2 text-gray-800">How It Works</h3>
               <p className="text-sm sm:text-base leading-relaxed">
-                Our tool uses advanced algorithms to create unique and memorable names. 
-                Simply select your preferred genre, and we'll provide you with 
-                creative suggestions that match your style.
+                Our band name generator uses advanced algorithms to create memorable names. 
+                Simply select your genre, and let our band name generator inspire you.
               </p>
             </div>
 
@@ -266,14 +265,6 @@ export default function Home() {
                 <li>Instant results</li>
                 <li>No registration required</li>
               </ul>
-            </div>
-
-            <div>
-              <h3 className="text-lg sm:text-xl font-semibold mb-2 text-gray-800">Tips for Best Results</h3>
-              <p className="text-sm sm:text-base leading-relaxed">
-                To get the best results, try different genres and add custom words. 
-                Our tool will combine these elements to create unique suggestions for your project.
-              </p>
             </div>
           </div>
         </div>
