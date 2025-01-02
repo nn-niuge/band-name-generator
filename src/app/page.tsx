@@ -244,37 +244,35 @@ export default function Home() {
 
         <div className="mt-12 w-full max-w-4xl bg-white rounded-2xl shadow-lg p-6 mx-4">
           <h2 className="text-2xl sm:text-3xl font-bold mb-6 text-center text-blue-600">
-            About Our Music Name Creator
+            About Our Name Generator
           </h2>
           
           <div className="space-y-6 text-gray-600">
             <div>
               <h3 className="text-lg sm:text-xl font-semibold mb-2 text-gray-800">How It Works</h3>
               <p className="text-sm sm:text-base leading-relaxed">
-                Our band name generator helps musicians create unique and memorable names. 
-                Whether you're starting a rock band, metal group, indie project, or electronic 
-                music venture, our tool combines creative elements to craft the perfect name 
-                that matches your style.
+                Our band name generator combines creative elements to craft unique and memorable names. 
+                Whether you're starting a rock band, metal group, indie project, or electronic music venture, 
+                our tool helps you find the perfect name that matches your style.
               </p>
             </div>
 
             <div>
               <h3 className="text-lg sm:text-xl font-semibold mb-2 text-gray-800">Key Features</h3>
               <ul className="text-sm sm:text-base space-y-2 pl-4 list-disc">
-                <li>Free music name creation tool</li>
+                <li>Free band name generator with no sign-up required</li>
                 <li>Genre-specific name suggestions</li>
-                <li>Custom word integration</li>
-                <li>Instant name generation</li>
-                <li>No registration required</li>
+                <li>Customizable with your own keywords</li>
+                <li>Instant results for your music project</li>
+                <li>Perfect for all music styles and genres</li>
               </ul>
             </div>
 
             <div>
               <h3 className="text-lg sm:text-xl font-semibold mb-2 text-gray-800">Tips for Better Results</h3>
               <p className="text-sm sm:text-base leading-relaxed">
-                Try different genres and custom words to find the perfect name for your music project. 
-                Our creative name generator is designed to inspire you with unique and memorable options 
-                that resonate with your musical style.
+                Try different genres and custom words to inspire your creativity. Our generator is designed 
+                to help musicians find unique and memorable names that resonate with their style and audience.
               </p>
             </div>
           </div>
