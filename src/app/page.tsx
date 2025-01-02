@@ -117,10 +117,10 @@ export default function Home() {
             Band Name Generator
           </h1>
           <p className="text-base sm:text-lg md:text-xl text-gray-600 px-2 mb-2">
-            Welcome to the ultimate band name generator! Create unique names for your music project instantly.
+            Create unique names for your music project instantly. Perfect for any genre!
           </p>
           <p className="text-sm sm:text-base text-gray-500 px-2">
-            Our band name generator helps you find the perfect name for any music genre.
+            Generate creative band names that match your style.
           </p>
         </div>
         
@@ -244,24 +244,24 @@ export default function Home() {
 
         <div className="mt-12 w-full max-w-4xl bg-white rounded-2xl shadow-lg p-6 mx-4">
           <h2 className="text-2xl sm:text-3xl font-bold mb-6 text-center text-blue-600">
-            About This Band Name Generator
+            About Our Name Creator
           </h2>
           
           <div className="space-y-6 text-gray-600">
             <div>
-              <h3 className="text-lg sm:text-xl font-semibold mb-2 text-gray-800">How Our Band Name Generator Works</h3>
+              <h3 className="text-lg sm:text-xl font-semibold mb-2 text-gray-800">How It Works</h3>
               <p className="text-sm sm:text-base leading-relaxed">
-                This band name generator uses advanced algorithms to create unique and memorable names. 
-                Simply select your preferred genre, and our band name generator will provide you with 
+                Our tool uses advanced algorithms to create unique and memorable names. 
+                Simply select your preferred genre, and we'll provide you with 
                 creative suggestions that match your style.
               </p>
             </div>
 
             <div>
-              <h3 className="text-lg sm:text-xl font-semibold mb-2 text-gray-800">Features of Our Band Name Generator</h3>
+              <h3 className="text-lg sm:text-xl font-semibold mb-2 text-gray-800">Features</h3>
               <ul className="text-sm sm:text-base space-y-2 pl-4 list-disc">
-                <li>Free and easy-to-use band name generator</li>
-                <li>Genre-specific name suggestions</li>
+                <li>Free and easy to use</li>
+                <li>Genre-specific suggestions</li>
                 <li>Custom word integration</li>
                 <li>Instant results</li>
                 <li>No registration required</li>
@@ -269,10 +269,10 @@ export default function Home() {
             </div>
 
             <div>
-              <h3 className="text-lg sm:text-xl font-semibold mb-2 text-gray-800">Tips for Using the Band Name Generator</h3>
+              <h3 className="text-lg sm:text-xl font-semibold mb-2 text-gray-800">Tips for Best Results</h3>
               <p className="text-sm sm:text-base leading-relaxed">
-                To get the best results from our band name generator, try different genres and add custom words. 
-                The band name generator will combine these elements to create unique suggestions for your project.
+                To get the best results, try different genres and add custom words. 
+                Our tool will combine these elements to create unique suggestions for your project.
               </p>
             </div>
           </div>
