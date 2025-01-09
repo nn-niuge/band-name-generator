@@ -280,6 +280,28 @@ export default function Home() {
             </div>
           </div>
         </div>
+
+        <div className="mt-12 w-full max-w-4xl bg-white rounded-2xl shadow-lg p-6 mx-4">
+          <h2 className="text-2xl sm:text-3xl font-bold mb-6 text-center text-blue-600">
+            Related Tools
+          </h2>
+          
+          <div className="grid gap-4 grid-cols-1 sm:grid-cols-2">
+            <a 
+              href="http://dandysworlddrawgenerator.top" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="p-4 border border-gray-200 rounded-xl hover:shadow-md transition-shadow"
+            >
+              <h3 className="text-lg font-semibold mb-2">Dandy's World Draw Generator</h3>
+              <p className="text-sm text-gray-600">
+                Create amazing drawings with this intuitive online drawing tool. Perfect for artists of all skill levels.
+              </p>
+            </a>
+            
+            {/* 可以继续添加更多相关工具链接 */}
+          </div>
+        </div>
       </div>
 
       {error && (
